@@ -1,0 +1,29 @@
+/* // root: {
+    //     '& .MuiTextField-root': {
+    //         margin: theme.spacing(1),
+    //     },
+    // }, */
+.paper {
+    padding: 10px;
+}
+
+
+.form {
+    display: flex;
+    row-gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.fileInput {
+    width: 97%;
+    margin: 10px 0;
+}
+
+.buttonSubmit {
+    margin-bottom: 10;
+}
+
+.ad {
+    background: #9ad8eb;
+}

@@ -1,0 +1,30 @@
+    .appBar {
+        border-radius: 15;
+        margin: 30px 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .heading {
+        color: #134346;
+        padding: 20px;
+        margin: auto;
+        font-size: 25px;
+        font-weight: 500;
+        letter-spacing: 3px;
+    }
+
+    .image {
+        margin-left: 15px;
+    }
+
+    .app-heading {
+        background: black;
+        color: white;
+    }
+
+    .back-img {
+        background-image: url(https://e1.pxfuel.com/desktop-wallpaper/138/815/desktop-wallpaper-blue-collage-aesthetic-blue-collage.jpg);
+    }
