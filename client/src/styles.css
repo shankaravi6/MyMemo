@@ -1,3 +1,8 @@
+    body {
+        background: rgb(9,9,121);
+        background: radial-gradient(circle, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 95%);
+    }
+    
     .appBar {
         border-radius: 15;
         margin: 30px 0;
